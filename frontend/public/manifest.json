@@ -1,0 +1,20 @@
+{
+   "short_name": "StartupApp",
+   "name": "Startup Application",
+   "icons": [
+      {
+         "src": "favicon-192x192.png",
+         "type": "image/png",
+         "sizes": "192x192"
+      },
+      {
+         "src": "favicon-512x512.png",
+         "type": "image/png",
+         "sizes": "512x512"
+      }
+   ],
+   "start_url": ".",
+   "display": "standalone",
+   "theme_color": "#1976d2",
+   "background_color": "#ffffff"
+}
